@@ -5,6 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% for post in site.publications reversed %}
-  {% include publications_kalali.html %}
-{% endfor %}
+{% include publications_kalali.html %}
