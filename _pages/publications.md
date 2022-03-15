@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 {% for post in site.publications reversed %}
