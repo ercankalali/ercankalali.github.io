@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-ddfafdfd
-bhjvjhv
-
-{% include publicationsk.html %}
-
+{% for post in site.publications reversed %}
+  {% include publicationsk.html %}
+{% endfor %}
