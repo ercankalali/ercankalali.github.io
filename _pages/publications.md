@@ -8,5 +8,5 @@ author_profile: true
 ddfafdfd
 bhjvjhv
 
-{% include publications_kalali.html %}
+{% include publicationsk.html %}
 
