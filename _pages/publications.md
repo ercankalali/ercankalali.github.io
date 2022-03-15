@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 {% for post in site.publications reversed %}
-  {% include publications1.html %}
+  {% include publications_kalali.html %}
 {% endfor %}
